@@ -1,9 +1,10 @@
 # STARBUCKS-NUTRITIONAL-ANALYSIS
-# STARBUCKS NUTRITIONAL REPORT
 
-# OBJECTIVE: To identify the most nutritious items on the menu.
+# OBJECTIVE
+To identify the most nutritious items on the menu.
 
-# TOOL USED: Microsoft Power BI
+# TOOL USED 
+Microsoft Power BI
 
 # INSIGHTS and RECOMMENDATIONS
 
